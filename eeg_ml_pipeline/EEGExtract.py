@@ -3,7 +3,10 @@
 
 # In[ ]:
 
-
+##################################################
+# See original library for updates
+# https://github.com/sari-saba-sadiya/EEGExtract
+##################################################
 import bisect
 import numpy as np
 import pandas as pd
