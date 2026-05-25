@@ -18,7 +18,7 @@ The following EEG datasets were used in the project:
 ### Dependencies
 
 * Python 3
-* EEGExtract.py
+* [EEGExtract](https://github.com/sari-saba-sadiya/EEGExtract).
 * Scikit-learn
 * Numpy
 * Pandas
